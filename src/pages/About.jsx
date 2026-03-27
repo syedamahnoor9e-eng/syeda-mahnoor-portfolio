@@ -24,7 +24,7 @@ function About() {
             className="relative mx-auto max-w-6xl px-6 py-20 md:py-28 opacity-0 translate-y-10 transition-all duration-1000">
 
             <div className="relative z-10 grid gap-16 md:grid-cols-2 items-center">
-                {/* 🔥 LEFT SIDE (TEXT) */}
+                {/* LEFT SIDE (TEXT) */}
                 <div>
                     <p className="text-xs uppercase tracking-[0.5em] text-purple-500 mb-3 font-bold">
                         Get To Know Me
