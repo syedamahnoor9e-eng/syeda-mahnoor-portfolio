@@ -15,7 +15,7 @@ const Contact = () => {
             icon: <Github size={20} />,
             label: "GitHub",
             value: "github.com/syedamahnoor9e-eng",
-            href: "https://github.com/syedamahnoor9e-eng",
+            href: "https://github.com/syedamahnoor-sm",
         },
         {
             icon: <Linkedin size={20} />,

@@ -8,15 +8,31 @@ function Projects() {
             tags: ["React", "Node.js", "MongoDB", "Express", "Tailwind CSS"],
             description: "A full-stack task management application built with the MERN stack, featuring user authentication, role-based access (admin/user), and advanced task handling such as editing, filtering, due dates, and completion tracking. Designed for efficient productivity and real-time task organization.",
             image: "/todo-mern.png",
-            github: "https://github.com/syedamahnoor9e-eng/todo-mern",
+            github: "https://github.com/syedamahnoor-sm/todo-mern",
             live: "https://todo-mern-lime-sigma.vercel.app",
+        },
+        {
+            title: "Spotify Clone",
+            tags: ["HTML", "CSS3", "Javascript", "Node.js", "MongoDB"],
+            description: "A modern Spotify-inspired music streaming web application built with HTML, CSS, Vanilla JavaScript, Node.js, Express, and MongoDB. The project features dynamic song loading, real-time search, playlist management, responsive UI design, and a fully functional audio player with playback controls, volume handling, and seamless user experience across desktop and mobile devices.",
+            image: "",
+            github: "https://github.com/syedamahnoor-sm/spotify-clone",
+            live: "https://spotify-clone-lac-xi.vercel.app"
+        },
+          {
+            title: "VidSnapAI",
+            tags: ["Python","Flask","FFmpeg","SQlite","AI"],
+            description: "VidSnapAI is an AI-powered reel generation platform built with Flask, SQLite, FFmpeg, and Microsoft Edge-TTS that converts text and images into short-form vertical videos with automated voice narration and dynamic reel processing.",
+            image: "",
+            github: "https://github.com/syedamahnoor-sm/VidSnapAI",
+            live: "https://vidsnapai-ln8l.onrender.com"
         },
         {
             title: "Digital Logic Gate Simulator (OOP)",
             tags: ["C++", "OOP", "Digital Logic"],
             description: "A C++ console-based simulator that models fundamental digital logic gates (AND, OR, NOT, XOR) using Object-Oriented Programming principles. Supports dynamic circuit creation, input evaluation, and file-based persistence for learning and experimentation.",
             image: "/logic-gate.png",
-            github: "https://github.com/syedamahnoor9e-eng/logic-gate-simulator",
+            github: "https://github.com/syedamahnoor-sm/logic-gate-simulator",
             live: "#"
         },
         {
@@ -24,9 +40,9 @@ function Projects() {
             tags: ["C++", "Algorithms", "Data Structures"],
             description: "A C++ application that analyzes job application data using Data Structures and Algorithms concepts to process, filter, and evaluate candidate information efficiently. Demonstrates practical use of sorting, searching, and data handling techniques.",
             image: "/job-application.png",
-            github: "https://github.com/syedamahnoor9e-eng/job-application-analyzer",
+            github: "https://github.com/syedamahnoor-sm/job-application-analyzer",
             live: "#"
-        },
+        }
     ];
 
     return (
